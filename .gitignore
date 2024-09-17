@@ -1,0 +1,12 @@
+# data
+get_pic.py
+login.py
+test.go
+
+
+#cpatcha
+captcha.png
+
+#dir
+__pycache__
+.vscode
