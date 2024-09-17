@@ -73,3 +73,4 @@ mac和Linux用戶自行把webdriver改成其他瀏覽器
 2024/09/18:
 
 不小心把帳密push上來了，重開一個呵呵
+有空再來弄goroutines 順便把設定區域移到yaml或json
